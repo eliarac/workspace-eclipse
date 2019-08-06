@@ -1,8 +1,7 @@
-package io.swagger;
+package src.main.java.io.swagger;
 
 import com.fasterxml.jackson.databind.util.ISO8601DateFormat;
 import com.fasterxml.jackson.databind.util.ISO8601Utils;
-
 import java.text.FieldPosition;
 import java.util.Date;
 
